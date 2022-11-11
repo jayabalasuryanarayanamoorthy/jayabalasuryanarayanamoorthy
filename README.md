@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jayabalasuryanarayanamoorthy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi Guys,👋
+- I’m @jayabalasuryanarayanamoorthy
+- 👀 I’m interested in C Programming
+- 🌱 I’m currently learning Full Stack
+- 💞️ I’m looking to collaborate on Big Project
+- 📫 How to reach me <a href ="mailto:jayabalasuryadon600@gmail.com">jayabalasuryadon600@gmail.com</a>
 
-<!---
-jayabalasuryanarayanamoorthy/jayabalasuryanarayanamoorthy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+# Keep Learning
